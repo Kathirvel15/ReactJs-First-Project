@@ -1,0 +1,78 @@
+body
+{
+    margin: 0px;
+    font-family: "Poppins";
+}
+/* section-1 */
+.ACS-header-section-1
+{
+    background-image: url("Mask group.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:max-content;
+    background-position: center;
+}
+.ACS-header-section-1 .header-section-inner-logo
+{
+    display: flex;
+}
+.ACS-header-section-1 .header-section-inner-logo img
+{
+    margin: 2em;
+}
+.header-section-content-center
+{
+    text-align: center;
+}
+.header-section-innercontent-first h2
+{
+    font-size: 35px;
+    font-weight: 500;
+    margin: 0px;
+    color:#ffff;
+}
+.header-section-innercontent-second h2
+{
+    margin: 0px;
+    margin-top: -0.2em;
+    font-size: 65px;
+    font-weight: 700;
+    color:#ffff;
+}
+.header-section-innerimg 
+{
+    margin-top:2em;
+}
+@media screen and (min-width:767px) and (max-width:1024px) {
+    .header-section-innercontent-first h2
+    {
+        font-size: 28px;
+    }
+    .header-section-innercontent-second h2
+    {
+        font-size: 45px;
+    }
+}
+@media screen and (max-width:767px) {
+    /* .header-section-innerimg  img
+    {
+        width:35%;
+    } */
+    .header-section-innercontent-first h2
+    {
+        font-size: 13px;
+    }
+    .ACS-header-section-1 .header-section-inner-logo img
+    {
+        margin: 1em;
+        width: 30%;
+    }
+    .header-section-innerimg 
+    {
+        margin-top: 1em;
+    }
+    .header-section-innercontent-second h2
+    {
+        font-size: 21px;
+    }
+}
