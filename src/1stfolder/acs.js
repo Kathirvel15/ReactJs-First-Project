@@ -154,6 +154,31 @@ const greek = () => (
         </div>
       </div>
     </section>
+    {/*FOURTH SECTION*/}
+    <section class="ACS-section-4">
+      <div class="ACS-all-section-heading-bold">
+        <h2>Get Profile Assistance from the Best Today</h2>
+      </div>
+      <div class="ACS-section-4-inner-part">
+        <div class="ACS-section-4-image">
+          <img src="Assets/Group 11.png" alt="" />
+        </div>
+        <div class="ACS-section-4-content">
+          <p>
+            If you are applying for MBA or Masters admissions, you would be
+            aware of the importance of a good profile apart from a good GRE
+            score in the application process. Careerlabs’ Admission Consulting
+            Services program helps you develop your profile to better suit your
+            dream school through our Profile Gap Analysis. The entire process
+            works on an established timeline, which ensures that the application
+            process is smooth and prompt. All reviews, feedback, and strategy
+            sessions provided by top experts are best suited for you based on
+            your input. The aim is to guide you through the application process
+            such that the application reflects your best work.
+          </p>
+        </div>
+      </div>
+    </section>
   </>
 );
 export default greek;
