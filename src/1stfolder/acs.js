@@ -179,6 +179,167 @@ const greek = () => (
         </div>
       </div>
     </section>
+    {/*FIFTH SECTION*/}
+    <section class="ACS-section-5">
+      <div class="ACS-all-section-heading-bold">
+        <h2>Make your mark in Top Universities</h2>
+      </div>
+      <div class="ACS-section-5-divided-part">
+        <div class="ACS-section-5-divided">
+          <div class="ACS-section-5-part1">
+            <p>
+              If you’re planning to get into a top program, you would be aware
+              of the importance of a good profile in the application process.
+              Careerlabs’ ACS program helps you build your profile and prepare
+              you for the entire application process. The application process
+              would differ depending upon the school you choose.{" "}
+            </p>
+          </div>
+          <div class="ACS-section-5-part1-heading">
+            <p>
+              The top 10 universities where you can achieve an admission are:
+            </p>
+          </div>
+          <div class="ACS-section-5-part1-orderlist">
+            <ol>
+              <li>Massachusetts Institute of Technology (MIT)</li>
+              <li>Harvard</li>
+              <li>Stanford</li>
+              <li>University of California-Berkeley</li>
+              <li>University of Pennsylvania</li>
+              <li>Princeton</li>
+              <li>Yale</li>
+              <li>Carnegie Mellon University</li>
+              <li>University of Southern California</li>
+              <li>UCLA</li>
+            </ol>
+          </div>
+        </div>
+        <div class="ACS-section-5-part2">
+          <img src="Assets/Group 47 (1).png" alt="" />
+        </div>
+      </div>
+    </section>
+    {/*SIXTH SECTION*/}
+    <section class="ACS-section-6">
+      <div class="ACS-section-6-heading">
+        <h2>Build your profile and achieve your dream School</h2>
+      </div>
+      <p>
+        If you’re planning to get into a top program, you should aim at building
+        your profile. Careerlabs’ ACS Program, helps you to build your desirable
+        profile under the guidance of experts.
+        <br />
+        <br />
+        With the expertise of{" "}
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          Krithika Srinivasan - India’s only Harvard certified admission
+          consultant ,
+        </span>
+        double masters from
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          University of Michigan,
+        </span>
+        and
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          Director of Admission Consultant Services Careerlabs,
+        </span>
+        learn to build a profile to stand out from the crowd.
+      </p>
+      <div class="ACS-section-6-heading">
+        <h2>Upskill your Profile</h2>
+      </div>
+      <p>
+        Experience working with top consultants and Executive Coach for
+        application strategy and get personalized best in class comprehensive
+        end to end service. Careerlabs is the only branded consulting service
+        that focuses on strategic profile building. Careerlabs believes in you
+        and therefore follows ethical consulting , no shortcuts or tie ups with
+        universities.
+      </p>
+      <div class="ACS-section-6-heading">
+        <h2>Train under experts</h2>
+      </div>
+      <p>
+        Experience Profile Building with{" "}
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          Krithika Srinivasan - India’s only Harvard certified admission
+        </span>{" "}
+        consultant who has done her double masters from{" "}
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          University of Michigan,
+        </span>{" "}
+        and{" "}
+        <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+          Director of Admission Consultant Services Careerlabs.
+        </span>{" "}
+        Get guidance through the application process such that the application
+        reflects your best work.
+      </p>
+      <div class="ACS-section-6-heading">
+        <h2>Statistical techniques to build your Profile</h2>
+      </div>
+      <p>
+        Here, our industry leading experts help you to fill the gap in your
+        profile by doing Profile Gap Analysis. Based on your preferred schools
+        and geography along with extensive research, Careerlabs gets a clear
+        picture of what kind of a profile you need to have for higher
+        probability of success in the admission process. Our expert consultants
+        then analyze the best strategy to bridge the gap, working with you to
+        build and refine your profile in accordance with your goals.
+      </p>
+      <div class="ACS-all-section-heading-bold">
+        <h2>Why choose CareerLabs ACS Program</h2>
+      </div>
+      <div class="ACS-section-6-divided-part">
+        <div class="ACS-section-6-divided-div">
+          <div class="ACS-section-6-heading">
+            <h2>TTop-notch Trainers</h2>
+          </div>
+          <p>
+            Learn from,{" "}
+            <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+              Krithika Srinivasan - India’s only Harvard certified admission
+              consultant,
+            </span>{" "}
+            double masters from{" "}
+            <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+              University of Michigan,
+            </span>{" "}
+            and{" "}
+            <span style={{ color: "#7A57E9", fontWeight: "500" }}>
+              Director of Admission Consultant Services Careerlabs,
+            </span>{" "}
+            who has worked with over 60,000 students.
+          </p>
+        </div>
+        <div class="ACS-section-6-divided-img">
+          <img src="Assets/Group 49.png" alt="" />
+        </div>
+      </div>
+      <div class="ACS-section-6-heading">
+        <h2>Our Approach</h2>
+      </div>
+      <p>
+        Our effective Admissions Consulting Process focuses on comprehensive,
+        end to end services to help you through every phase of your application
+        to your desired university. The different stages of progressive process
+        are
+      </p>
+      <div class="ACS-all-section-heading-bold">
+        <h2>Make your mark in Top Universities</h2>
+      </div>
+    </section>
+    {/*SEVENTH SECTION*/}
+    <section class="ACS-section-7">
+      <img class="ACS-section-7-img1" src="Assets/Group 50.png" alt="" />
+      <img
+        class="ACS-section-7-img2"
+        style={{ display: "none" }}
+        src="Assets/Group 71.png"
+        alt=""
+      />
+    </section>
   </>
 );
 export default greek;
