@@ -623,3 +623,142 @@ margin-right: 2em;
         margin-top: 1em;
     }
 }
+/* Section-9 */
+.ACS-section-9
+{
+    width: 88%;
+    margin: auto;
+}
+.ACS-section-9-split
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 15px;
+}
+.ACS-section-9-split p
+{
+    font-size: 25px;
+    color: #855EFF;
+    font-weight: 700;
+}
+.ACS-section-8-border
+{
+    border:2px solid #7A57E9;
+}
+.ACS-section-8-divided
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.part-1
+{
+    width: 30%;
+    padding: 0px 2em;
+    text-align: -webkit-auto;
+}
+.part-2
+{
+    background-color: #855EFF;
+    color: #ffff;
+    padding: 10px 15px;
+}
+.part-3
+{
+    width: 30%;
+    padding-right: 10px;
+}
+.part-1,.part-3
+{
+    font-size:20px;
+    color:#8A8A8A;
+}
+.ACS-section-9-all-gap
+{
+    margin: 15px 0px;
+}
+@media screen and (max-width:1024px) {
+    .ACS-section-9
+    {
+        width: 95%;
+    }
+    .ACS-section-9-split
+    {
+        margin: 0px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+    .ACS-section-9-split p
+    {
+        font-size: 20px;
+    }
+    .part-1,.part-3
+    {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .part-2
+    {
+        font-size: 18px;
+    }
+    .part-1
+    {
+        padding: 0px 1em !important;
+    }
+}
+@media screen and (max-width:767px) {
+    .ACS-section-9 .ACS-section-9-split p
+    {
+        font-size: 14px;
+    }
+    .part-1
+    {
+        width: 35%;
+        padding: 0em 0.5em !important;
+    }
+    .part-1,.part-3
+    {
+        font-size: 9px;
+    }
+    .part-2
+    {
+        font-size: 9px;
+        padding: 5px 10px;
+    }
+    .ACS-section-9
+    {
+        margin-top: -1em;
+    }
+    .ACS-section-9-all-gap
+    {
+        margin: 10px 0px;
+    }
+}
+/* section-10 */
+.ACS-section-10
+{
+    width: 80%;
+    margin: auto;
+    margin-top: 3em;
+}
+.ACS-section-10 p
+{
+    color: #8A8A8A;
+    font-size: 20px;
+    line-height: 32px;
+}
+@media screen and (max-width:1024px) {
+    .ACS-section-10
+    {
+        width: 93%;
+    }
+}
+@media screen and (max-width:767px) {
+    .ACS-section-10 p
+    {
+        font-size: 14px;
+        line-height: 22px;
+        margin-top:-1em;
+    }
+}

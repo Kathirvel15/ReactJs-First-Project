@@ -367,6 +367,56 @@ const greek = () => (
         <h2>We are the best ACS Program</h2>
       </div>
     </section>
+    {/*NINTH SECTION */}
+    <section class="ACS-section-9">
+      <div class="ACS-section-9-split">
+        <p>CareerLabs ACS Program</p>
+        <p>Other ACS Programs</p>
+      </div>
+      <div class="ACS-section-8-border">
+        <div class="ACS-section-8-divided">
+          <p class="part-1">
+            India's only Profile Building Platform which involves Profile Gap
+            Analysis
+          </p>
+          <h2 class="part-2">Profile Building</h2>
+          <p class="part-3">No Profile Building Platform</p>
+        </div>
+      </div>
+      <div class="ACS-section-8-border ACS-section-9-all-gap">
+        <div class="ACS-section-8-divided">
+          <p class="part-1">
+            Train under India’s only Harvard certified admission consultant
+          </p>
+          <h2 class="part-2">Trainers</h2>
+          <p class="part-3">Frequent change in mentors</p>
+        </div>
+      </div>
+      <div class="ACS-section-8-border">
+        <div class="ACS-section-8-divided">
+          <p class="part-1">
+            Follows ethical consulting, believes every individual is different
+            and work accordingly
+          </p>
+          <h2 class="part-2">Assessment</h2>
+          <p class="part-3">Focuses on document completion</p>
+        </div>
+      </div>
+    </section>
+    {/*TENTH SECTION*/}
+    <section class="ACS-section-10">
+      <div class="ACS-all-section-heading-bold">
+        <h2>Register now and stay ahead</h2>
+      </div>
+      <p>
+        It's high time to build your profile and get admitted to your dream
+        school if you're planning to pursue your MBA/ MIM/ Masters/ PHD in 2023!
+        Why wait? Register with us to reach out to you and understand your
+        career needs. We have also partnered with various payment partners for
+        Easy EMI and No cost EMI options. Rejuvenate your profile now and
+        achieve your dream of getting into top Universities!
+      </p>
+    </section>
   </>
 );
 export default greek;
