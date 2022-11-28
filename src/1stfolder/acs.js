@@ -340,6 +340,33 @@ const greek = () => (
         alt=""
       />
     </section>
+    {/*EIGTH SECTION*/}
+    <section class="ACS-section-8">
+      <div class="ACS-section-8-heading">
+        <h2>Get Access to free ACS Resources</h2>
+      </div>
+      <p>
+        Careerlabs understands that apart from profile and good score, clearing
+        visa interviews and having the right knowledge of leadership programs is
+        also important. Get free access to free mock US visa interviews and tips
+        to crack them.
+      </p>
+      <div class="ACS-all-section-heading-bold">
+        <h2>Get Profile Assistance from the Best Today</h2>
+      </div>
+      <p>
+        Careerlabs got successful admits in top ranking universities in India as
+        well as abroad such as:
+      </p>
+      <img
+        class="ACS-section-8-img-fullwidth"
+        src="Assets/Group 54.png"
+        alt=""
+      />
+      <div class="ACS-all-section-heading-bold">
+        <h2>We are the best ACS Program</h2>
+      </div>
+    </section>
   </>
 );
 export default greek;
