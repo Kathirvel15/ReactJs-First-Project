@@ -417,6 +417,20 @@ const greek = () => (
         achieve your dream of getting into top Universities!
       </p>
     </section>
+    {/*ELEVENTH SECTION */}
+    <section class="ACS-section-11">
+      <div class="ACS-section-11-divided">
+        <form method="post">
+          <div class="ACS-section-11-divided-part">
+            <input type="text" placeholder="Name" requried />
+            {/*<input type="text" placeholder="Name" requried>*/}
+            <input type="Email" placeholder="Email" requried />
+            <input type="phone Number" placeholder="phone" requried />
+          </div>
+          <button>Build my Application</button>
+        </form>
+      </div>
+    </section>
   </>
 );
 export default greek;
