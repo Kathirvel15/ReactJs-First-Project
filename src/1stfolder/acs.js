@@ -420,12 +420,12 @@ const greek = () => (
     {/*ELEVENTH SECTION */}
     <section class="ACS-section-11">
       <div class="ACS-section-11-divided">
-        <form method="post" action="https://thecareerlabs.com/">
+        <form action="https://thecareerlabs.com/">
           <div class="ACS-section-11-divided-part">
-            <input type="text" placeholder="Name" requried />
+            <input type="text" placeholder="Name" required />
             {/*<input type="text" placeholder="Name" requried>*/}
-            <input type="Email" placeholder="Email" requried />
-            <input type="phone Number" placeholder="phone" requried />
+            <input type="Email" placeholder="Email" required />
+            <input type="phone Number" placeholder="phone" required />
           </div>
           <button>Build my Application</button>
         </form>
