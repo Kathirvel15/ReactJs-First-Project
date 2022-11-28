@@ -837,3 +837,26 @@ border-radius: 10px;
         margin-top: 20px;
     }
 }
+/* footer */
+footer{
+    background-color: #855EFF;
+    padding: 0.7em 0px;
+}
+footer p
+{
+    color: #ffff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+@media screen and (max-width: 767px) {
+    footer p
+    {
+        font-size: 13px;
+    }
+    footer
+    {
+        padding: 0.4em 0px;
+    }
+    
+}

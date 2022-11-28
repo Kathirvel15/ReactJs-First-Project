@@ -431,6 +431,10 @@ const greek = () => (
         </form>
       </div>
     </section>
+    {/*FOOTER*/}
+    <footer>
+      <p>© 2022 CareerLabs Technologies Pvt Ltd</p>
+    </footer>
   </>
 );
 export default greek;
