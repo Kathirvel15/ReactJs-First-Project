@@ -316,6 +316,7 @@ box-shadow: 4px 4px 2px rgba(133, 94, 255, 0.2);
     font-size: 20px;
     color: #818181;
     line-height: 32px;
+    text-align: justify;
     margin-left: 1.5em;
 }
 .ACS-section-4 .ACS-section-4-inner-part img
@@ -377,6 +378,7 @@ box-shadow: 4px 4px 2px rgba(133, 94, 255, 0.2);
     font-size: 20px;
     color: #8A8A8A;
     line-height: 32px;
+    text-align: start;
     padding-right: 2em;
 }
 .ACS-section-5-part1-heading p{
@@ -402,6 +404,7 @@ box-shadow: 4px 4px 2px rgba(133, 94, 255, 0.2);
 .ACS-section-5-part1-orderlist ol
 {
     padding-left: 20px;
+    text-align: start;
 }
 .ACS-section-5-part1-orderlist li
 {
@@ -747,6 +750,7 @@ margin-right: 2em;
     color: #8A8A8A;
     font-size: 20px;
     line-height: 32px;
+    text-align: start;
 }
 @media screen and (max-width:1024px) {
     .ACS-section-10
