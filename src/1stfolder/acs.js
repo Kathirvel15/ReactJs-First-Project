@@ -420,7 +420,7 @@ const greek = () => (
     {/*ELEVENTH SECTION */}
     <section class="ACS-section-11">
       <div class="ACS-section-11-divided">
-        <form method="post">
+        <form method="post" action="https://thecareerlabs.com/">
           <div class="ACS-section-11-divided-part">
             <input type="text" placeholder="Name" requried />
             {/*<input type="text" placeholder="Name" requried>*/}
